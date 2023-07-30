@@ -1,0 +1,26 @@
+/* *,
+*::before,
+*::after{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}*/
+body{
+    background-color: #322653;
+}
+.container{
+    width:80%;
+    text-align: center;
+}
+.coin{
+    text-align: center;
+    display: inline-block;
+}
+p{
+    font-size: 2rem;
+    color: #C51605;
+}
+h1{
+    font-size: 2rem;
+    color:#7D7463;
+}
